@@ -1,4 +1,4 @@
-//1. Users Table
+1. Users Table
 
 CREATE TABLE users (
     user_id NUMBER PRIMARY KEY,
@@ -19,7 +19,7 @@ CREATE TABLE categories (
 );
 
 
-//3. Products Table
+3. Products Table
 
 CREATE TABLE products (
     product_id NUMBER PRIMARY KEY,
@@ -32,7 +32,7 @@ CREATE TABLE products (
 );
 
 
-//4. Orders Table
+4. Orders Table
 
 
 CREATE TABLE orders (
@@ -45,7 +45,7 @@ CREATE TABLE orders (
 );
 
 
-//5. Order Items Table
+5. Order Items Table
 
 
 CREATE TABLE order_items (
@@ -57,7 +57,7 @@ CREATE TABLE order_items (
 );
 
 
-//6. Payments Table
+6. Payments Table
 
 
 CREATE TABLE payments (
@@ -70,7 +70,7 @@ CREATE TABLE payments (
 );
 
 
-//7. Shopping Cart Table
+7. Shopping Cart Table
 
 
 CREATE TABLE shopping_cart (
@@ -80,7 +80,7 @@ CREATE TABLE shopping_cart (
 );
 
 
-//8. Cart Items Table
+8. Cart Items Table
 
 
 CREATE TABLE cart_items (
