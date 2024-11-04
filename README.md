@@ -20,3 +20,10 @@ A comprehensive SQL-based database management system for an e-commerce platform 
 ## Technologies Used
 - Oracle SQL
 - PL/SQL
+
+
+ ## Installation
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/kotavenkatesh2618@gmai.com /personal-expense-tracker.git
+
